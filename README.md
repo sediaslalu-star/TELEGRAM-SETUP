@@ -1,4 +1,4 @@
-# TeamMarySy Telegram Bot
+#  Telegram Bot
 
 Single Cloudflare Worker Telegram bot implementation based on the supplied Developer Implementation Checklist.
 
